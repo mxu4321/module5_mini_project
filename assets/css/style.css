@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Sono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Bubbles&family=Sono&family=Space+Grotesk:wght@600&display=swap');
+/* ⬆ font-family: 'Space Grotesk', sans-serif; ⬆*/
+
+body {
+    font-family: 'Sono', sans-serif;
+}
+
+
+.custom-card-left {
+    line-height: 150%;
+}
